@@ -1,0 +1,94 @@
+/*
+
+==-----------------------------------==
+|| Name : DH Theme                   ||
+|| Version : 0.8                     ||  
+|| Author : Doddy H                  ||
+|| Description: Templante            ||
+|| Date : 14/1/2015                  ||
+==-----------------------------------==
+
+*/
+
+body {
+	background:transparent url("images/fondo.jpg") repeat scroll 0 0;
+	color:gray;
+	font-family:helvetica,arial,sans-serif;
+	font-size:14px;
+	text-align:center;
+}
+
+a:link {
+	text-decoration:none;
+	color:orange;
+}
+a:visited {
+	color:orange;
+}
+a:hover {
+	color:orange;
+}
+
+td,tr {
+	border-style:solid;
+	border-color: gray;
+	border-width: 1px;
+	background: black;
+	border: solid #222 2px;
+	color:gray;
+	font-family:helvetica,arial,sans-serif;
+	font-size:14px;
+	text-align:center;
+}
+
+textarea {
+	font: normal 10px Verdana, Arial, Helvetica,sans-serif;
+	background-color:black;
+	color:gray;
+	border: solid #222 2px;
+	border-color:gray
+}
+
+input {
+	border-style:solid;
+	border-color: gray;
+	border-width: 1px;
+	background: black;
+	border: solid #222 2px;
+	color:gray;
+	font-family:helvetica,arial,sans-serif;
+	font-size:14px;
+}
+
+.post {
+	background-color:black;
+	color:gray;
+	margin-bottom:10px;
+	width:600px;
+	word-wrap: break-word;
+}
+
+.post h3 {
+	background-color:black;
+	color:orange;
+	background-color:#000;
+	border: solid #222 2px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding:5px 10px;
+}
+
+.post_body {
+	background-color:black;
+	margin:-20px 0 0 0;
+	color:white;
+	background-color:#000;
+	border: solid #222 2px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding:5px 10px;
+}
+
+/* The End ? */
